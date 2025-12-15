@@ -113,13 +113,7 @@ C:\Users\...\Desktop\video_player.bf
 
 ## How to Play the Generated Video
 
-Using a system Brainfuck interpreter:
-
-```bash
-bf video_player.bf
-```
-
-Or using a Python Brainfuck interpreter:
+ using a Python Brainfuck interpreter:
 
 ```bash
 python bf.py < video_player.bf
